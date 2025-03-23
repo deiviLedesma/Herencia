@@ -5,6 +5,9 @@
     <class>Entidades.Clase</class>
     <class>Entidades.Profesor</class>
     <class>Entidades.Estudiante</class>
+    <class>Entidades.ClasePresencial</class>
+    <class>Entidades.ClaseEnLinea</class>
+    <class>Entidades.ClaseHibrida</class>
     <properties>
       <property name="javax.persistence.jdbc.url" value="jdbc:mysql://localhost:3306/escuelita?zeroDateTimeBehavior=CONVERT_TO_NULL"/>
       <property name="javax.persistence.jdbc.user" value="root"/>
